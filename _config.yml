@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Thoughts on the end of humanity
+description: One day some person will wake up to figure out its the last day a human is living on earth. What will he do with this day and why should he even care?
+github_username: Beggajoe
 
 # Email and twitter are optional:
 email:
